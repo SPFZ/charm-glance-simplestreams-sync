@@ -1,3 +1,11 @@
+
+---
+**NOTE**
+
+This repository was moved to [opendev.org/openstack/charm-glance-simplestreams-sync](https://opendev.org/openstack/charm-glance-simplestreams-sync).
+
+---
+
 # Known Issues
 
 https://bugs.launchpad.net/charm-glance-simplestreams-sync
